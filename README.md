@@ -11,6 +11,11 @@ Everything needed to bring a fresh new computer up to speed for my programs and 
 - [ ] Bitwarden: https://bitwarden.com/download/
 - [ ] Firefox: https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
 - [ ] Firefox Extensions
+- [ ] Paint.NET
+- [ ] UHK Agent
+- [ ] f.lux
+- [ ] Win SCP
+- [ ] Email client
 - [ ] 
 
 ### Visual Studio Code Extensions  
@@ -40,3 +45,10 @@ These files are all in the repository already for easy downloading and installin
 ### Firefox Extensions
 
 ## Personal Programs To Install
+- [ ] Teamviewer
+- [ ] MediaMonkey
+- [ ] VLC
+
+## Windows Settings
+
+## Linux Settings

@@ -3,12 +3,13 @@ Everything needed to bring a fresh new computer up to speed for my programs and 
 
 ## Work Programs To Install
 
+- [ ] Bitwarden: https://bitwarden.com/download/
 - [ ] VS Code: https://code.visualstudio.com/Download
 - [ ] Install VS Code Extensions
 - [ ] Git: https://git-scm.com/downloads
+- [ ] Slack: https://slack.com/downloads/windows
 - [ ] Notepad++: https://notepad-plus-plus.org/downloads/
 - [ ] Notepad++ Extensions
-- [ ] Bitwarden: https://bitwarden.com/download/
 - [ ] Firefox: https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
 - [ ] Firefox Extensions
 - [ ] Paint.NET
@@ -48,7 +49,9 @@ These files are all in the repository already for easy downloading and installin
 - [ ] Teamviewer
 - [ ] MediaMonkey
 - [ ] VLC
+- [ ] Discord
 
 ## Windows Settings
+- [ ] Enable dark theme
 
 ## Linux Settings

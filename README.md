@@ -16,8 +16,6 @@ Everything needed to bring a fresh new computer up to speed for my programs and 
 - [ ] UHK Agent
 - [ ] f.lux
 - [ ] Win SCP
-- [ ] Email client
-- [ ] 
 
 ### Visual Studio Code Extensions  
 These files are all in the repository already for easy downloading and installing. However here is the text list:

@@ -1,21 +1,62 @@
 # New Computer Setup
 Everything needed to bring a fresh new computer up to speed for my programs and settings
 
-## Work Programs To Install
+# Programs To Install
 
+## Work Programs To Install
 - [ ] Bitwarden: https://bitwarden.com/download/
-- [ ] VS Code: https://code.visualstudio.com/Download
-- [ ] Install VS Code Extensions
+- [ ] Visual Studio
+- [ ] VS Code and Extensions: https://code.visualstudio.com/Download
+- [ ] Vim
+- [ ] Obsidian
 - [ ] Git: https://git-scm.com/downloads
 - [ ] Slack: https://slack.com/downloads/windows
-- [ ] Notepad++: https://notepad-plus-plus.org/downloads/
-- [ ] Notepad++ Extensions
-- [ ] Firefox: https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
-- [ ] Firefox Extensions
+- [ ] Notepad++ and Extensions: https://notepad-plus-plus.org/downloads/
+- [ ] Firefox and Extensions: https://www.mozilla.org/en-US/firefox/all/#product-desktop-release
 - [ ] Paint.NET
 - [ ] UHK Agent
 - [ ] f.lux
 - [ ] Win SCP
+- [ ] Oracle VM VirtualBox
+- [ ] VNC Viewer
+- [ ] VNC Server
+- [ ] WinRAR
+- [ ] PuTTY
+
+## Computer Utilities
+- [ ] Backup software
+- [ ] ReClock
+- [ ] Graphics Card software
+- [ ] Cooler software
+- [ ] Headset software
+
+## Personal Programs To Install
+- [ ] Discord
+- [ ] MediaMonkey and Codecs
+- [ ] NordVPN
+- [ ] Fences
+- [ ] Teamviewer
+- [ ] VLC Media Player
+- [ ] SVP 4 Pro
+- [ ] PowerISO
+- [ ] Ocenaudio
+- [ ] Cheat Engine
+- [ ] Torrent Client
+
+## Dev Environments and Utils
+- [ ] Node.js
+- [ ] Xamarin
+- [ ] .NET SDKs and Runtimes
+- [ ] Chocolatey
+- [ ] Python
+- [ ] Unity
+
+## Fun Personal Programs
+- [ ] Steam
+- [ ] Battle.net
+- [ ] Epic Games Launcher
+- [ ] GoG Galaxy
+
 
 ### Visual Studio Code Extensions  
 These files are all in the repository already for easy downloading and installing. However here is the text list:
@@ -41,15 +82,19 @@ These files are all in the repository already for easy downloading and installin
 - [ ] SQL Server (mssql)
 - [ ] YAML
 
-### Firefox Extensions
-
-## Personal Programs To Install
-- [ ] Teamviewer
-- [ ] MediaMonkey
-- [ ] VLC
-- [ ] Discord
 
 ## Windows Settings
 - [ ] Enable dark theme
+- [ ] Set default browser
+- [ ] Disable automatic updates
+
+## Folders
+- [ ] High Level Programming Folder
+- [ ] User Files
+- [ ] High Level Games Folder
 
 ## Linux Settings
+
+
+### Firefox Extensions
+
